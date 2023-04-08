@@ -1,0 +1,2 @@
+serviceClass: com.app.client.LoginService
+path: 7C8638155DF80D8D2EDFE0886721555F.gwt.rpc
